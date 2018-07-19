@@ -1,5 +1,5 @@
 <Card className="content">
-  <h1>Hello {name}!
+  <h1>Hello {name}!</h1>
   <Button on:click="onClickHandler()">test button</Button>
 </Card>
 
