@@ -6,6 +6,5 @@ Content:
 
 - [Svelte](https://svelte.technology) 2.9
 - [Parcel](https://parceljs.org/) 1.8
-- [Postcss](https://postcss.org/) config (auto-prefixer)
-- [Prettier](https://prettier.io/) 1.12 (with pre-commit hook)
+- [Prettier](https://prettier.io/) 1.12
 - [Eslint](https://eslint.org) config
